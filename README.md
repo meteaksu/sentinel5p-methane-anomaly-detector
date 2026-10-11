@@ -68,7 +68,7 @@ Install required packages:
 pip install xarray pandas numpy duckdb matplotlib
 
 Place your Sentinel-5P NetCDF file (.nc) in the root directory and run the Jupyter Notebook:
-jupyter notebook satellite_methane_analysis.ipynb
+jupyter notebook copernicus.ipynb
 
    
 
